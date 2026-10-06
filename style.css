@@ -204,7 +204,9 @@ h1 {
   padding: 0;
 }
 
-
+.django .list-tarea {
+  list-style: none;
+}
 
 /* Articulos */
 
